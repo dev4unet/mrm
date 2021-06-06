@@ -3,6 +3,7 @@
    
 영상 설명 : https://youtu.be/iU-JcxQa0p4   
 
+
 __[프로그램 구동에 필요한 설치 파일]__
 .NET Framework 4.6.1 버전 이상의 닷넷프레임워크 설치 필요   
 - .NET Framework 버전 및 종속성   
