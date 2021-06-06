@@ -1,7 +1,8 @@
 ﻿버섯돌이 개인용 화면 자동 캡처 프로그램
  ![sshot](https://user-images.githubusercontent.com/8984372/120911634-ca4e8d00-c6c3-11eb-9cc7-aca8ca395f60.jpg)
    
-- .NET Framework 4.6.1 버전 이상의 닷넷프레임워크 설치 필요
+__[프로그램 구동에 필요한 설치 파일]__
+.NET Framework 4.6.1 버전 이상의 닷넷프레임워크 설치 필요   
 - .NET Framework 버전 및 종속성   
   https://docs.microsoft.com/ko-kr/dotnet/framework/migration-guide/versions-and-dependencies
 - Microsoft .NET Framework 4.6.1(웹 설치 관리자)   
